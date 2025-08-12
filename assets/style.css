@@ -75,13 +75,9 @@ p {
 }
 
 #transform-world {
-    padding: 80px 20px;
-    font-size: 2rem;
+    height: 400px;
     background: url("/assets/images/woman-code.png");
-    text-shadow: 2px 1px 3px #00c8ff;
-    text-align: left;
-    text-transform: lowercase;
-    font-weight: bold;
+    background-size: cover;
 }
 
 footer {
