@@ -76,7 +76,7 @@ p {
 
 #transform-world {
     height: 400px;
-    background: url("./src/assets/images/woman-code.png");
+    background: url("/src/assets/images/woman-code.png");
     background-size: cover;
 }
 
@@ -97,7 +97,7 @@ footer {
 }
 
 .banner {
-    background: url("./src/assets/images/banner.png");
+    background: url("/src/assets/images/banner.png");
     color: white;
     padding: 80px 20px;
     position: relative;
